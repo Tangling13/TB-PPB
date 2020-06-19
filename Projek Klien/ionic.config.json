@@ -1,0 +1,7 @@
+{
+  "name": "KUYBACA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
